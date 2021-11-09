@@ -1,16 +1,5 @@
 {
-  "blogs": [
-    {
-      "title": "HTML",
-      "body": "First developed by Tim Berners-Lee in 1990, HTML is short for Hypertext Markup Language. HTML is used to create electronic documents (called pages) that are displayed on the World Wide Web. Each page contains a series of connections to other pages called hyperlinks. Every web page you see was written using one version of HTML.HTML code ensures the proper formatting of text and images for your Internet browser. Without HTML, a browser would not know how to display text as elements or load images or other elements. HTML also provides a basic structure of the page, upon which Cascading Style Sheets are overlaid to change its appearance. One could think of HTML as the bones (structure) of a web page, and CSS as its skin (appearance).",
-      "author": "John",
-      "id": 1
-    },
-    {
-      "title": "CSS",
-      "body": "Short for cascading style sheets, CSS is a language used to describe reusable styles for presenting documents written in a markup language. Its concept was originated by Håkon Wium Lie in 1994. In December 1996, CSS was made a specification by the W3C and today allows web developers to alter the layout and appearance of their web pages. For example, CSS may be used to change the font used in certain HTML element, and its size and color. A single CSS file may be linked to multiple pages, which allows a developer to change the appearance of all the pages at the same time. The following box contains a basic example of using CSS code to define fonts, the color of hyperlinks, and the color of a link when the mouse cursor hovers over. In this specific example, we are only changing the HTML tags <a> and <body>, rather than creating any new class or id selectors.",
-      "author": "David",
-      "id": 2
-    }
-  ]
+  "id":1,
+  "firstName":"Maung",
+  "lastName":"Aung"
 }
