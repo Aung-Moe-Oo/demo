@@ -1,5 +1,9 @@
 {
-  user:[{"id":1,
-  "firstName":"Maung",
-  "lastName":"Aung"}]
+  "user":[
+    {
+      "id":1,
+      "firstName":"Maung",
+      "lastName":"Aung"
+    }
+  ]
 }
